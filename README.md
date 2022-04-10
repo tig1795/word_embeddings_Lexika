@@ -38,7 +38,7 @@ Das Repository ist wie folgt aufgebaut:
                     wikicorpus2.csv
                 Fine_tuning_ohne_Label.ipynb
         2_Word2Vec
-            Ergebnisse
+            Histwords_Ergebnisse
                 Ergebnis_ausgepowert
                 Ergebnis_Batterie
                 Ergebnis_bloede
@@ -49,6 +49,7 @@ Das Repository ist wie folgt aufgebaut:
                 Ergebnis_Toilette
                 Ergebnis_wichsen
                 Ergebnis_Widerstand
+            Word2Vec_German_model.ipynb
      README.md
                     
                     
